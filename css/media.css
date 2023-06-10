@@ -51,6 +51,10 @@
     padding-left: 56px;
     justify-content: center;
   }
+  .banner-inner-right img {
+    width: 50%;
+    margin: 0;
+  }
 
   /* news section     */
   .news-inner {
